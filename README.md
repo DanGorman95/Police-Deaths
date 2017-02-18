@@ -1,2 +1,4 @@
 # Police-Deaths
 Analyis of Police officer deaths in the  United States of America 1900-2016 
+
+United States of America has been long associated with guns, its buried deep in American history from long before the country was formed. American law enforcement is known worldwide for the operations they have undertaken to stop crime and corruption on both their own and foreign soil. But with these operations comes a cost. That cost has been the loss of thousands of officers over their history. Hundreds of well trained dogs died also some with their partners and some alone. It’s not just gunfire that has killed these brave officers, it has come in various way including a large proportion of officers dying from heart attacks, although from the datasets available it’s hard to say if it was the constant pressure of the job and fear of being shot at any time like the 11,000. The following report will highlight my findings from the research I’ve conducted.
