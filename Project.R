@@ -208,7 +208,7 @@ barplot(joint_counts, beside=TRUE, col = , ylab = 'Freq', xlab='sex')
 legend('bottomright', horiz=TRUE ,c('Monday', 'Tuesday', 'Wednesday','Thursday','Friday','Saturday', 'Sunday'), pch=15, col = blues9)
 
 ggplot(war, aes(reorder(cause, cause, function(x) + length(x)))) + 
-  geom_bar(fill = "red") + 
+  geom_bar(fill = "darkblue") + 
   coord_flip() +
   labs( x = "Year", y = "Total Number of Deaths")
 
